@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="my_phone_number">e-mail me first</string>
+    <string name="twitter_handle">\@gentil__pinto</string>
+    <string name="my_email">gentil.pinto.dev@gmail.com</string>
+    <string name="my_name">Gentil Pinto</string>
+    <string name="my_title">Software Developer</string>
+</resources>
